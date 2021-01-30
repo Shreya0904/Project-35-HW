@@ -1,6 +1,6 @@
 class Food {
     constructor(foodS){
-        this.image = loadImage("Milk.png");
+        this.image = loadImage("images/Milk.png");
         this.foodS = foodS;        
         this.lastFed = lastFed;   
     }
